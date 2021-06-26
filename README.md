@@ -52,3 +52,25 @@ The icon set includes colored icons of the following:
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Tailwind.svg
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/VSCode.svg
 ```
+
+#### 36x36 .png format
+```sh
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Bootstrap.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/C.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/C++.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Figma.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Firebase.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Git.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/HTML.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/IntelliJ.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Java.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Javascript.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/MongoDB.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/MySQL.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/NodeJS.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Photoshop.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Python.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/React.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Tailwind.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/VSCode.png
+```
