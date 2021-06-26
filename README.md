@@ -49,7 +49,7 @@ The icon set includes colored icons of the following:
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Photoshop.svg
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Python.svg
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/React.svg
-- https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Tailwind.svg
+- https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/TailwindCSS.svg
 - https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/VSCode.svg
 ```
 
@@ -71,6 +71,6 @@ The icon set includes colored icons of the following:
 - https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Photoshop.png
 - https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Python.png
 - https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/React.png
-- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/Tailwind.png
+- https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/TailwindCSS.png
 - https://raw.githubusercontent.com/asknkitkr/icon-set/main/png/x36/VSCode.png
 ```
